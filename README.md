@@ -1,4 +1,4 @@
-# dir-equals
+# compare-folder
 
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]

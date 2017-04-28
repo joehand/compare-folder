@@ -1,0 +1,31 @@
+{
+  "name": "compare-folder",
+  "description": "check if two directories are the same, with support for custom fs",
+  "version": "1.0.0",
+  "author": "Joe Hand <joe@hand.email>",
+  "bugs": {
+    "url": "https://github.com/joehand/compare-folder/issues"
+  },
+  "devDependencies": {
+    "hyperdrive": "^9.0.0",
+    "mirror-folder": "^2.0.0",
+    "random-access-memory": "^2.4.0",
+    "standard": "*",
+    "tap-spec": "^4.0.2",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/joehand/compare-folder",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joehand/compare-folder.git"
+  },
+  "scripts": {
+    "test": "standard && tape test/*.js | tap-spec"
+  },
+  "dependencies": {
+    "count-files": "^2.6.2"
+  }
+}

@@ -17,7 +17,7 @@ Currently checks:
 ## Install
 
 ```
-npm install dir-equals
+npm install compare-folder
 ```
 
 ## Usage
@@ -58,9 +58,9 @@ var dir1 = {fs: customFs, name: '/'}
 
 [MIT](LICENSE.md)
 
-[npm-image]: https://img.shields.io/npm/v/dir-equals.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/dir-equals
-[travis-image]: https://img.shields.io/travis/joehand/dir-equals.svg?style=flat-square
-[travis-url]: https://travis-ci.org/joehand/dir-equals
+[npm-image]: https://img.shields.io/npm/v/compare-folder.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/compare-folder
+[travis-image]: https://img.shields.io/travis/joehand/compare-folder.svg?style=flat-square
+[travis-url]: https://travis-ci.org/joehand/compare-folder
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: http://npm.im/standard
